@@ -1,0 +1,12 @@
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+jspm_packages/
+bower_components/
+.env
+logs/
+*.log
+node_modules/
+npm-debug.log
+yarn-error.log
